@@ -1,5 +1,5 @@
 # pandas-data-cleaning-portfolio
-This is my portfolio of Data cleaning and formatting. In this Portfolio:
+This is my portfolio of Data cleaning and formatting. I have cleaned the messy Dataset to fit the consistent Patterns and made it capable for further data analysis. In this Portfolio:
 
 1)Standardized String Values
 2)All Values are consistent and capitalized
