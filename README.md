@@ -12,7 +12,7 @@ phoneNum = "+89" + "".join(numbers)
 objDf["phone"].loc[objDf["phone"].isna()] = phoneNum
 
 After/Output ::
-![image](Afer_Missing_Datas.jpg)
+![image](After_Missing_Datas.jpg)
 
 
 
