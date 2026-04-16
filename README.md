@@ -23,4 +23,11 @@ Before ::
 
 Source Code ::
 
+objDf["Order"] = objDf["Order"].str.replace(r'\$','',regex = True)
+
+objDf["Order"] = pd.to_numeric(objDf["Order"], errors='coerce')
+
+
+After/Result ::
+![image](After_unwanted_signs.jpg)
 
