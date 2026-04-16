@@ -31,3 +31,17 @@ objDf["Order"] = pd.to_numeric(objDf["Order"], errors='coerce')
 After/Result ::
 ![image](After_unwanted_signs.jpg)
 
+### Fixed Inconsistent Formatting by creating standardized Data Format
+
+Before ::
+
+![image](Before_Format.jpg)
+
+Source Code ::
+numbers = objDf["Id"].str.extract(r'(\d+)')
+objDf["Id"] = "C_" + numbers[0].str.zfill(3)
+
+After/Result ::
+
+![image](After_format.jpg)
+
