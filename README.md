@@ -11,7 +11,7 @@ Before ::
 source code::
 
 After::
-![Image](After_Unwanted_Symbols.jpg)
+![Image](After_Unrecognized_Symbols.jpg)
 
 
 
