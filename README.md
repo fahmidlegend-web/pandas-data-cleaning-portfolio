@@ -5,26 +5,26 @@
 ### Clarified Unrecognized Symbols and formatted the text so that its readable
 
 Before ::
-[!Image](Before_Unrecognized_Symbols.jpg)
+![Image](Before_Unrecognized_Symbols.jpg)
 
 
 source code::
 
 After::
-[!Image](After_Unwanted_Symbols.jpg)
+![Image](After_Unwanted_Symbols.jpg)
 
 
 
 #### Standardized the inconsistent text format (Bi-Residence,Bi_Residence) into (Bi Residence)
 Before ::
-[!Image](Inconsistent_Text_Format.jpg)
+![Image](Inconsistent_Text_Format.jpg)
 source code::
 After::
-[!Image](Consistent_Text_Format.jpg)
+![Image](Consistent_Text_Format.jpg)
 
 ### Filled Missing Value with proper imputation(Median) and converted the whole column into float for more data analysis
 Before::
-[!Image](Before_Missing_Data.jpg)
+![Image](Before_Missing_Data.jpg)
 source code::
 After ::
-[!Image](After_Missing_Data.jpg)
+![Image](After_Missing_Data.jpg)
